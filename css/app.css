@@ -203,8 +203,9 @@ a:hover {
 }
 
 .progress {
-  max-width: 588px;
+  max-width: 688px;
   margin: 0 auto 10px;
+  
 }
 
 .progress__text {
